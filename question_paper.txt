@@ -1,0 +1,161 @@
+Python Programming Question Paper
+Total Marks: 50
+
+Section 1: Multiple Choice Questions (20 x 1 = 20 marks)
+
+Q1. What is the output of print(2**3)?
+A) 6
+B) 8
+C) 9
+D) 4
+
+Q2. Which data type is immutable in Python?
+A) List
+B) Dictionary
+C) Tuple
+D) Set
+
+Q3. How do you start a comment in Python?
+A) //
+B) /*
+C) #
+D) --
+
+Q4. What does len([1,2,3]) return?
+A) 3
+B) 6
+C) 1
+D) Error
+
+Q5. Which loop is used for iterating over a sequence?
+A) if
+B) for
+C) while
+D) switch
+
+Q6. What is the keyword to define a function?
+A) func
+B) def
+C) function
+D) define
+
+Q7. Which of the following is not a Python data type?
+A) int
+B) str
+C) float
+D) char
+
+Q8. How to access the first element of a list 'lst'?
+A) lst[0]
+B) lst[1]
+C) lst.first()
+D) lst.get(0)
+
+Q9. What does 'OOP' stand for?
+A) Object Oriented Programming
+B) Open Object Protocol
+C) Online Operation Process
+D) Organized Object Pattern
+
+Q10. Which method is used to add an element to a list?
+A) add()
+B) insert()
+C) append()
+D) push()
+
+Q11. What is the output of bool('')?
+A) True
+B) False
+C) None
+D) Error
+
+Q12. Which statement is used for conditional execution?
+A) for
+B) if
+C) while
+D) def
+
+Q13. How to open a file for reading?
+A) open('file.txt', 'w')
+B) open('file.txt', 'r')
+C) open('file.txt', 'a')
+D) open('file.txt', 'x')
+
+Q14. What is the base class for all exceptions?
+A) Error
+B) Exception
+C) BaseError
+D) RuntimeError
+
+Q15. Which operator is used for floor division?
+A) /
+B) //
+C) %
+D) **
+
+Q16. How to create a class in Python?
+A) class MyClass:
+B) def MyClass():
+C) create MyClass:
+D) new MyClass:
+
+Q17. What does 'self' refer to in a class method?
+A) The class itself
+B) The instance
+C) The method
+D) The module
+
+Q18. Which function converts a string to lowercase?
+A) lower()
+B) casefold()
+C) lowercase()
+D) Both A and B
+
+Q19. What is the output of print(type(5))?
+A) <class 'int'>
+B) <class 'str'>
+C) <class 'float'>
+D) <class 'bool'>
+
+Q20. How to handle exceptions in Python?
+A) try-except
+B) if-else
+C) for-while
+D) def-return
+
+Section 2: Descriptive Questions (6 x 5 = 30 marks)
+
+Q21. Write a Python program to find the factorial of a number using a loop.
+
+Q22. Explain the difference between lists and tuples with examples.
+
+Q23. Define a class 'Student' with attributes name and age, and a method to display them.
+
+Q24. Write code to read a file 'data.txt' and print its contents.
+
+Q25. Demonstrate error handling for division by zero.
+
+Q26. Create a function that takes a list and returns the sum of its elements.
+
+Answer Key for MCQs
+
+Q1: B
+Q2: C
+Q3: C
+Q4: A
+Q5: B
+Q6: B
+Q7: D
+Q8: A
+Q9: A
+Q10: C
+Q11: B
+Q12: B
+Q13: B
+Q14: B
+Q15: B
+Q16: A
+Q17: B
+Q18: D
+Q19: A
+Q20: A
